@@ -3,3 +3,5 @@ from utils.converter import thanks
 
 help()
 thanks()
+
+print('hello)
